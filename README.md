@@ -8,6 +8,6 @@ https://github.com/l3lackShark/gosumemory
  Twitch: {USERNAME: "(yourtwitch irc username)", PASSWORD: "(your twitch irc password)"}
 }
 
-## To get irc username and password acces you need to clic on the links bellow :
+## To get irc username and password acces you need to clic on the links bellow:
 ### Osu: https://osu.ppy.sh/p/verify?r=%2Fp%2Firc (it will use your osu account and name) 
 ### Twitch see twitch doc: https://dev.twitch.tv/docs/irc/authenticate-bot
