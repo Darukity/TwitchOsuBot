@@ -1,5 +1,5 @@
 # TwitchOsuBot
-## This node.js app works with another program called gosumemory (memory reader for osu!) :
+## This node.js app works alongside another program called gosumemory (memory reader for osu!) :
 https://github.com/l3lackShark/gosumemory
 
 ## secret.json format:
