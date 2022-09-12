@@ -9,5 +9,5 @@ https://github.com/l3lackShark/gosumemory
 }
 
 ## To get irc username and password acces you need to clic on the links bellow:
-### Osu: https://osu.ppy.sh/p/verify?r=%2Fp%2Firc (it will use your osu account and name) 
+### Osu: https://osu.ppy.sh/p/verify?r=%2Fp%2Firc (it will use your osu account and name so you would want to use a friend's account) 
 ### Twitch see twitch doc: https://dev.twitch.tv/docs/irc/authenticate-bot
